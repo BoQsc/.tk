@@ -1,6 +1,6 @@
 # .tk
 
-Update: Not worth considering. The Freenom is notorious for taking down the free domains such as .tk and placing advertisments. [^2]
+Update: The Freenom is notorious for taking down the free domains such as .tk and placing advertisments. [^2] Not worth considering. 
 
 ___
 An experiment on using Freenom domain.
